@@ -5,7 +5,7 @@ import matplotlib.pyplot as plot
 from textblob import TextBlob
 import numpy as np
 import pandas as pd
-
+ 
 def sentimentAnalysis(ticker):
 	plot.figure()
 
