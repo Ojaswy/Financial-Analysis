@@ -31,7 +31,7 @@ def visualAnalysis(ticker):
 
 	frame = pd.read_csv(ticker+'.csv',parse_dates = True,index_col = 0)
 	frame['50DMA'] = frame['Close'].ewm(com=0.33333333).mean()
-
+ 
 
 	xAxis = plot.subplot2grid((6,1),(0,0),rowspan=5,colspan=1)
 	plot.xlabel('Date')
