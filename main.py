@@ -1,11 +1,11 @@
 from bs4 import BeautifulSoup
 from urllib.request import urlopen
 import re
-import json
+import json 
 import requests
 from math import pow
 import datetime
-import matplotlib.pyplot as plot
+import matplotlib.pyplot as plot 
 import matplotlib.dates
 from mpl_finance import candlestick_ohlc
 from matplotlib import style
