@@ -113,5 +113,5 @@ def main(ticker):
 	plot.show(block=False)
 	import tweetAnalysis as tweetAnalysis
 	tweetAnalysis.main(ticker)
-
+   
 
