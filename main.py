@@ -49,7 +49,7 @@ def visualAnalysis(ticker):
 
 application_window = tk.Tk()
 
-ticker = simpledialog.askstring("Jack Of All Trades", "Enter A Ticker With Atleast 5 Years of Price Action",
+ticker = simpledialog.askstring("Financial Analysis:", "Enter A Ticker With Atleast 5 Years of Price Action",
                                 parent=application_window)
 
 try:
