@@ -1,5 +1,7 @@
 # Financial Analysis
-Analysis program written in Python that consolidates 3 pillars of investment analysis; sentiment, technical and fundamental. This script takes a stock ticker, performs a discounted cash flow valuation, identifies support and resistance levels alongside entry and exit points. This leads to a final sentiment vs price analysis conducted with data from twitter.
+
+This script takes a stock ticker, performs a discounted cash flow valuation, identifies support and resistance levels alongside entry and exit points. This leads to a final sentiment vs price analysis conducted with data from twitter.
+
 <p float="center">
   <img src="images/technical.PNG" width="400" />
   <img src="images/sentimentPlot.PNG" width="400" /> 
@@ -32,7 +34,7 @@ This portion of the program is split into determining the following
 
 ## Sentiment Analysis ##
 
-I scrape tweets from twitter corresponding to a specific stock ticker and plot the sentiment and price correlation.
+I scraped tweets from twitter corresponding to a specific stock ticker and plot the sentiment and price correlation.
 * Determining Sentiment
 ![Sentiment](/images/sentiment.PNG)
 
