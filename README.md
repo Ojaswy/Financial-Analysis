@@ -24,7 +24,7 @@ This DCF model is broken into these 3 parts
 
 * Terminal and Intricsic Value
   ![VALUATION](/images/valuation.PNG)
-
+ 
 ## Technical Analysis ##
 Technical analysis allows us to determine patterns not usually found through financial analysis.
 
