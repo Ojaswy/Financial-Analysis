@@ -1,4 +1,4 @@
-# Financial Analysis
+# Financial Analysis 
 
 This script takes a stock ticker, performs a discounted cash flow valuation, identifies support and resistance levels alongside entry and exit points. This leads to a final sentiment vs price analysis conducted with data from twitter.
  
