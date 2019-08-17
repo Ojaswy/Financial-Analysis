@@ -2,7 +2,7 @@ import GetOldTweets3 as got3
 import pandas_datareader.data as web
 import datetime
 import matplotlib.pyplot as plot  
-from textblob import TextBlob
+from textblob import TextBlob 
 import numpy as np
 import pandas as pd
  
