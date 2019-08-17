@@ -1,7 +1,7 @@
 from bs4 import BeautifulSoup
 from urllib.request import urlopen
 import re
-import json 
+import json  
 import requests
 from math import pow
 import datetime
