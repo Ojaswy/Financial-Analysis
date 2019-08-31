@@ -7,7 +7,7 @@ This script takes a stock ticker, performs a discounted cash flow valuation, ide
   <img src="images/sentimentPlot.PNG" width="400" /> 
 </p>
 <p float="center">
-  <img src="images/price.PNG" width="400" /> 
+  <img src="images/price.PNG" width="400" />  
   <img src="images/dcf.PNG" width="300" />
 </p>
 
