@@ -2,7 +2,7 @@ from bs4 import BeautifulSoup
 from urllib.request import urlopen
 import re
 import json  
-import requests
+import requests 
 from math import pow
 import datetime
 import matplotlib.pyplot as plot 
