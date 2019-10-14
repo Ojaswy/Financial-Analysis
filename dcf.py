@@ -4,7 +4,7 @@ import re
 import json
 import requests
 from math import pow
-import datetime 
+import datetime  
 import matplotlib.pyplot as plot
 import matplotlib.dates
 from mpl_finance import candlestick_ohlc
