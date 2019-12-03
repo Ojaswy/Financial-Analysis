@@ -2,7 +2,7 @@
               
 This script takes a stock ticker, performs a discounted cash flow valuation, identifies support and resistance levels alongside entry and exit points. This leads to a final sentiment vs price analysis conducted with data from twitter.
  
-<p float="center">
+<p float="center"> 
   <img src="images/technical.PNG" width="400" />
   <img src="images/sentimentPlot.PNG" width="400" /> 
 </p>
