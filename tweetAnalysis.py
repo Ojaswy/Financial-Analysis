@@ -7,7 +7,7 @@ import numpy as np
 import pandas as pd
  
 def sentimentAnalysis(ticker):
-	plot.figure()
+	plot.figure() 
 
 	start  = datetime.datetime (2018,6,1)
 	end = datetime.datetime(2019,1,1)
