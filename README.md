@@ -32,7 +32,7 @@ This portion of the program is split into determining the following
 * Entry/Exit Points to Determine Support and Resistance Regios
 ![SupRes](/images/region.PNG)
 
-## Sentiment Analysis ##
+## Sentiment Analysis ## 
 
 I scraped tweets from twitter corresponding to a specific stock ticker and plot the sentiment and price correlation.
 * Determining Sentiment
