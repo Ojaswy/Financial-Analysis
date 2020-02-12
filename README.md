@@ -9,7 +9,7 @@ This script takes a stock ticker, performs a discounted cash flow valuation, ide
 <p float="center">
   <img src="images/price_g.PNG" width="400" />  
   <img src="images/dcf_ss.PNG" width="300" />
-</p>
+</p> 
 
 ## Discounted Cash Flow ##
 
