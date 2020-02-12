@@ -11,7 +11,7 @@ from mpl_finance import candlestick_ohlc
 from matplotlib import style
 import pandas as pd
 import pandas_datareader.data as web
-import webbrowser
+import webbrowser 
 import sys
 
 def technicalAnalysis(ticker,url,figureToGet):
