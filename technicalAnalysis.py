@@ -3,7 +3,7 @@ from urllib.request import urlopen
 import re
 import json
 import requests
-from math import pow
+from math import pow 
 import datetime
 import matplotlib.pyplot as plot
 import matplotlib.dates
