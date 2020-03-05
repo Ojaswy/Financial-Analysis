@@ -16,7 +16,7 @@ import sys
 import tkinter as tk
 from tkinter import simpledialog
 
-def visualAnalysis(ticker):
+def visualAnalysis(ticker): 
 	plot.figure()
 	style.use('ggplot')
 
